@@ -7,6 +7,8 @@ docker compose up
 3. Enter the token `my-token`
 4. Navigate into the `work/` folder, and open the `blackjack-solver.ipynb` notebook in the JupyterLab environment.
 
+Notion blog post: [link](https://harmless-resistance-e28.notion.site/Blackjack-Solver-1414b68d0c40802caf37e73e7ad0a6d8)
+
 # Problem Definition
 
 Objective of the game:
